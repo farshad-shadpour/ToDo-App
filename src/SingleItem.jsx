@@ -8,6 +8,7 @@ const SingleItem = ({ item, removeItem, editItem }) => {
         checked={item.completed}
         onChange={() => editItem(item.id)}
       />
+
       <p
         style={{
           textTransform: 'capitalize',
