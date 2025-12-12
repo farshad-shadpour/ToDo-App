@@ -1,5 +1,6 @@
 # A web application to create a to-do list
 
+<img width="781" height="576" alt="image" src="https://github.com/user-attachments/assets/7b7dfa7c-ccb3-486c-ab2a-e3d9fbeffd68" />
 
 ## Figma URL
 
