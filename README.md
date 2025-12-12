@@ -2,6 +2,8 @@
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/5820dcae-343c-4921-89e8-34fe1e2c7882" />
 
+[Live Demo](https://farshad-to-do-app.netlify.app/)
+
 ## Figma URL
 
 [ToDo App](https://www.figma.com/design/R15fIXXOUjFVZd3uBHJSiR/ToDo-Buddy?m=auto&t=gBUtwYVu0Osp2Lms-6)
